@@ -36,14 +36,14 @@ USER_INFO = {}
 DEBUG = ""
 
 # target profile
-PROFILE = ""
+PROFILE = "lauranvickers"
 # profile data from /users/<profile>
 PROFILE_INFO = {}
 PROFILE_ID = ""
 
 API_HEADER = {
     "Accept": "application/json, text/plain, */*",
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
     "Accept-Encoding": "gzip, deflate"
 }
 
